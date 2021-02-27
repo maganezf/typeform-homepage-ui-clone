@@ -1,7 +1,3 @@
-'variables' to changes:
-
-- ProjectLinkInLiveHere
-
 <div align='center'>
 
 # <img align='center' src="./.github/logo.svg" alt="Typeform Logo" width="350"/>
@@ -15,8 +11,8 @@
 
   <img alt='Project Top Language' src='https://img.shields.io/github/languages/top/maganezf/typeform-homepage-ui-clone'/>
 
-  <a href='https://ProjectLinkInLiveHere' >
-    <img alt='ProjectLinkInLiveHere' src="https://img.shields.io/badge/ProjectLinkInLiveHere-101D42"/>
+  <a href='https://typeform-homepage-animation-maganezf.netlify.app/' >
+    <img alt='Typeform-Homepage' src="https://img.shields.io/badge/Typeform Homepage-FFA07A"/>
   </a>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/maganezf/typeform-homepage-ui-clone?color=5863d2">
@@ -49,7 +45,6 @@ contributors
 
 - [Live Website](#👀-live-website)
 - [Technologies](#💻-technologies)
-- [Ancillary sites at development](#💁-Ancillary-sites-at-development)
 - [Object / Features](#🎯-object-/-features)
 - [How to Run](#👷-how-to-run)
 - [Found a bug? Missing a specific feature?](#🐛-issues)
@@ -67,40 +62,31 @@ contributors
 
 # 👀 Live Website
 
-👉 [Click to open Website here](https://ProjectLinkInLiveHere/)
+👉 [Click to open Website here](https://typeform-homepage-animation-maganezf.netlify.app//)
 
 # 💻 Technologies
 
 This project was made using the follow technologies:
 
 - [React.js](https://reactjs.org/)
-- [Next.js](https://nextjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [SASS / SCSS](https://sass-lang.com/)
+- [Framer Motion](https://framer.com/motion)
 - [Styled Components](https://styled-components.com/)
 - [Node](https://nodejs.org/)
 - [Yarn](https://yarnpkg.com/)
-- [Vercel (hosting)](https://vercel.com/)
-
-## 💁 Ancillary sites at development
-
-- [Figma - Design UI/UX](https://www.figma.com/)
-- [Flaticon](https://www.flaticon.com/)
-- [Freepik](https://www.freepik.com/)
-- [Google Fonts](https://fonts.google.com/)
-- [Icon Finder](https://www.iconfinder.com/)
-- [Icons8](https://icons8.com/)
+- [Netlify (hosting)](https://netlify.com/)
 
 # 🎯 Object / Features
 
-- Website developed for professional purposes, job market.
-- And a means to contact me
+- Framer Design
+- Focused on Framer Motion animations
 
 # 🐛 Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [ProjectLinkInLiveHere](https://github.com/maganezf/typeform-homepage-ui-clone/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [typeform-homepage-animation-maganezf.netlify.app/](https://github.com/maganezf/typeform-homepage-ui-clone/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
 # 🎉 Contributing
 
