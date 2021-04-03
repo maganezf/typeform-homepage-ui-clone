@@ -1,6 +1,8 @@
 <div align='center'>
 
-# <img align='center' src="./.github/logo.svg" alt="Typeform Logo" width="350"/>
+# <img align='center' src="./.github/logo-typeform.svg" alt="Typeform Homepage Logo" width="350"/>
+
+# <img align='center' src="./.github/logo.svg" alt="My Logo (maganezf)" width="350"/>
 
 </div>
 
@@ -41,15 +43,15 @@ contributors
 
 </div>
 
-# 📌 Table of Contents
+# :pushpin: Table of Contents
 
-- [Live Website](#👀-live-website)
-- [Technologies](#💻-technologies)
-- [Object / Features](#🎯-object-/-features)
-- [How to Run](#👷-how-to-run)
-- [Found a bug? Missing a specific feature?](#🐛-issues)
-- [Contributing](#🎉-contributing)
-- [License](#📕-license)
+- [Live Website](#eyes-live-website)
+- [Technologies](#computer-technologies)
+- [Purpose and Features](#dart-purpose-and-features)
+- [How to Run](#construction_worker-how-to-run)
+- [Found a bug? Missing a specific feature?](#bug-issues)
+- [Contributing](#tada-contributing)
+- [License](#closed_book-license)
 
 <h2 align="left"> 🤩 Animation Video: </h2>
 <p align="center">
@@ -60,11 +62,11 @@ contributors
   </div>
 </p>
 
-# 👀 Live Website
+# :eyes: Live Website
 
 👉 [Click to open Website here](https://typeform-homepage-animation-maganezf.netlify.app//)
 
-# 💻 Technologies
+# :computer: Technologies
 
 This project was made using the follow technologies:
 
@@ -79,16 +81,29 @@ This project was made using the follow technologies:
 - [Yarn](https://yarnpkg.com/)
 - [Netlify (hosting)](https://netlify.com/)
 
-# 🎯 Object / Features
+# :dart: Purpose and Features
 
+- Responsive Typeform Homepage UI Clone (partial) for study purposes.
 - Framer Design
-- Focused on Framer Motion animations
+- Focused on animations (with Framer Motion)
 
-# 🐛 Issues
+### 💻 Run Project locally
 
-Feel free to **file a new issue** with a respective title and description on the the [Typeform](https://github.com/maganezf/typeform-homepage-ui-clone/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+```bash
+# Install Dependencies
+$ npm install or yarn install
 
-# 🎉 Contributing
+# Run Aplication
+$ yarn start (react.js apps) or yarn dev(next.js apps)
+```
+
+Go to http://localhost:3000/ to see the result.
+
+# :bug: Issues
+
+Feel free to **file a new issue** with a respective title and description on the the [Typeform Homepage UI Clone](https://github.com/maganezf/typeform-homepage-ui-clone/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+
+# :tada: Contributing
 
 First of all, thank you for being interested in helping out, your time is always appreciated in every way. 💯
 
@@ -99,7 +114,7 @@ Here's some tips:
 
 Check out the [contributing](./CONTRIBUTING) page to see the best places to file issues, start discussions and begin contributing.
 
-# 📕 License
+# :closed_book: License
 
 Released in 2021 📕 License
 
